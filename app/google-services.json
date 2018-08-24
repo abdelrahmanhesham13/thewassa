@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "110612840591",
+    "firebase_url": "https://thewassa-6763f.firebaseio.com",
+    "project_id": "thewassa-6763f",
+    "storage_bucket": "thewassa-6763f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110612840591:android:ef810603ecc9b874",
+        "android_client_info": {
+          "package_name": "com.thewassa.thewassa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110612840591-90jnk42l81a2hli91biouglulbgdsojv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiEdd1jwLTGhjF5muKb_dndk2FhEao5Qc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

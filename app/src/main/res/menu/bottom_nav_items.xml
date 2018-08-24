@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home_white_24dp"/>
+    <item
+        android:id="@+id/menu_settings"
+        android:icon="@drawable/ic_person_white_24dp"
+        android:title="@string/reservations"/>
+    <item
+        android:id="@+id/menu_reservations"
+        android:title="@string/settings"
+        android:icon="@drawable/ic_settings_white_24dp"/>
+    <item
+        android:id="@+id/menu_call_us"
+        android:title="@string/call_us"
+        android:icon="@drawable/ic_call_white_24dp"/>
+
+
+
+</menu>
+

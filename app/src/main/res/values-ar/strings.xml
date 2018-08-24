@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">عيش المغامره</string>
+    <string name="internet_error">لا يوجد انترنت</string>
+    <string name="refresh">تحديث الصفحه</string>
+    <string name="home">الرئيسيه</string>
+    <string name="call_us">اتصل بنا</string>
+    <string name="reservations">حجوزاتي</string>
+    <string name="settings">اعدادات</string>
+</resources>
